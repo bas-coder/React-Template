@@ -1,0 +1,2 @@
+export { imgSrc } from "./src";
+

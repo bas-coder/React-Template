@@ -1,0 +1,15 @@
+.footer {
+    padding: 10px 50px;
+    margin-top: 40px;
+    background-color: rgb(12, 13, 15);
+
+    &__icons {
+        display: flex;
+        justify-content: space-around;
+
+        .MuiSvgIcon-root {
+            color: #fff;
+
+        }
+    }
+}

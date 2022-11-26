@@ -1,0 +1,12 @@
+.home {
+    display: grid;
+    place-items: center;
+    background-color: #313131;
+
+    &__card {
+        margin: 0 auto;
+        max-width: 300px;
+        background-color: #202020;
+    }
+
+}
